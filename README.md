@@ -1,4 +1,4 @@
-# USB Guardian
+# USB-Security-Key
 ### Windows 11 USB-Based Physical Authentication & Access Control System
 
 ![Platform: Windows 11](https://img.shields.io/badge/Platform-Windows%2011%20Home%20%2F%20Pro-blue?logo=windows)
